@@ -4,8 +4,8 @@
 
 ## Sample (4 preloaded color schemes):
 
-<img src="https://github.com/sandeepmisra-repo/resumake-v1/blob/master/samples/dummy-seagreen.jpg" width="350px" /> <img src="https://github.com/sandeepmisra-repo/resumake-v1/blob/master/samples/dummy-blue.jpg" width="350px" />
-<img src="https://github.com/sandeepmisra-repo/resumake-v1/blob/master/samples/dummy-grey.jpg" width="350px" /> <img src="https://github.com/sandeepmisra-repo/resumake-v1/blob/master/samples/dummy-indigo.jpg" width="350px" />
+<img src="https://github.com/sandeepmisra-repo/resumake-v1/blob/main/samples/dummy-seagreen.jpg" width="350px" /> <img src="https://github.com/sandeepmisra-repo/resumake-v1/blob/main/samples/dummy-blue.jpg" width="350px" />
+<img src="https://github.com/sandeepmisra-repo/resumake-v1/blob/main/samples/dummy-grey.jpg" width="350px" /> <img src="https://github.com/sandeepmisra-repo/resumake-v1/blob/main/samples/dummy-indigo.jpg" width="350px" />
 
 ## Steps to run this project:
 
